@@ -11,7 +11,7 @@ We are using MySQL database.
 This link forwards to the site.
 http://maciejnmaciej.cba.pl/projekt/menu.php
 
-## Example Video
+## Example Video (on my friend's yt channel that i worked with during this project)
 
 https://youtu.be/Rnr6qddXKPA
 
