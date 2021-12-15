@@ -9,7 +9,7 @@ Project was made using HTML and PHP.
 We are using MySQL database.
 
 This link forwards to the site.
-http://maciejnmaciej.cba.pl/projekt/menu.php
+http://maciejnmaciej.cba.pl/projekt/menu.php (hosting expired)
 
 ## Example Video (on my friend's yt channel that i worked with during this project)
 
